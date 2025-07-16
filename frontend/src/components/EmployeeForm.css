@@ -1,0 +1,26 @@
+.form-container {
+  width: 350px;
+  margin: 100px auto;
+  padding: 25px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 2px 2px 12px #aaa;
+  text-align: center;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  width: 90%;
+  padding: 8px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
